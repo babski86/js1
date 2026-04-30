@@ -53,3 +53,4 @@ console.log(
   "magram tu mainteresebs ramdenia nashti roca chem asaks gavyof chem simagles plius 1.14 mivigeb " +
     ((age % (height + 1.14)) + "ს"),
 );
+console.log("aseve tu mainteresebs ramdenia asaki gamravlebuli 5 samushao dgeze iqneba " + age * 5 + "ი");
